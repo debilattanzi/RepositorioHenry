@@ -1,1 +1,1 @@
-# RepositorioHenry
+Este es el Homework del C2 Terminal, Git y Git Hub del PrepCourse Henry.
